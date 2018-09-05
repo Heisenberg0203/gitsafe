@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart Pune</string>
+    <string name="title_activity_hotspot_map">Map</string>
+    <string name="title_activity_login">Sign in</string>
+</resources>
