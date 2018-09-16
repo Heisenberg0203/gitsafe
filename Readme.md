@@ -19,17 +19,17 @@ GitSafe is an android unified platform application to make Pune a safe and secur
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-![hi](a.png)
+
 ### Prerequisites
-```
+
 For testing and debugging process you need to following softwares :-
 Android studio - For client side debugging.
-![hello](gitsafe/a.png?raw=true "dfgh")
+![hi](a.png)
 
 Access to Firebase Database,Firebase Cloud Messaging Service,Firebase Storage.
-
+![hi](aa.png)
 Anaconda package for data analysis.
-
+![hi](aaa.png)
 MlXtend library for association rule mining and k-means clustering.
 	Run the following command to install MLXtend library:-
 		####conda install MLXtend
