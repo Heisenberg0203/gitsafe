@@ -17,7 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
 For testing and debugging process you need to following softwares :-
 Android studio - For client side debugging.
 
-![](https://drive.google.com/open?id=1wcO3kWmiDLsqKy-TmJBWlLbnbzp8UZhl)
+![](https://github.com/Heisenberg0203/gitsafe/blob/master/Screen%20Shot%202018-09-16%20at%201.42.25%20PM.png)
 
 
 
