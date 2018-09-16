@@ -1,12 +1,20 @@
 # GitSafe
 GitSafe is an android unified platform application to make Pune a safe and secure city.The following domains have been taken into account :-
-A. Road Safety to reduce number of road accidents.
+
+	A. Road Safety to reduce number of road accidents.
+	
 	B. Mobility Obstruction 
+	
 	C. Viral message validation to stop socially and politically motivated conflicts.
+	
 	D. Broadcasting Notifications to citizens at times of crisis.
+	
 	E. Polling to make proactive e-governance.
+	
 	F. Community Groups to safeguard senior citizens.
+	
 	G. Monitoring crime to make pune a zero-crime area.
+	
 	
 ## Getting Started
 
@@ -17,7 +25,9 @@ These instructions will get you a copy of the project up and running on your loc
 For testing and debugging process you need to following softwares :-
 Android studio - For client side debugging.
 
-![](https://github.com/Heisenberg0203/gitsafe/blob/master/Screen%20Shot%202018-09-16%20at%201.42.25%20PM.png)
+![](
+      gitsafe/Screen Shot 2018-09-16 at 1.48.05 PM.png
+    )
 
 
 
