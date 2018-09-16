@@ -24,17 +24,11 @@ These instructions will get you a copy of the project up and running on your loc
 ```
 For testing and debugging process you need to following softwares :-
 Android studio - For client side debugging.
-
+![hello](gitsafe/a.png?raw=true "dfgh")
 
 Access to Firebase Database,Firebase Cloud Messaging Service,Firebase Storage.
 
-![](https://github.com/Heisenberg0203/gitsafe/blob/master/a.png)
-
-
 Anaconda package for data analysis.
-
-
-![](https://github.com/Heisenberg0203/gitsafe/blob/master/Screen%20Shot%202018-09-16%20at%201.48.05%20PM.png)
 
 MlXtend library for association rule mining and k-means clustering.
 	Run the following command to install MLXtend library:-
