@@ -13,7 +13,7 @@ A. Road Safety to reduce number of road accidents.
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
-
+```
 For testing and debugging process you need to following softwares :-
 Android studio - For client side debugging.
 
@@ -22,20 +22,20 @@ Android studio - For client side debugging.
 
 
 
-```
+
 Access to Firebase Database,Firebase Cloud Messaging Service,Firebase Storage.
 
-
+![](https://github.com/Heisenberg0203/gitsafe/blob/master/Screen%20Shot%202018-09-16%20at%201.44.20%20PM.png)
 
 
 Anaconda package for data analysis.
 
 
-
+![](https://github.com/Heisenberg0203/gitsafe/blob/master/Screen%20Shot%202018-09-16%20at%201.48.05%20PM.png)
 
 MlXtend library for association rule mining and k-means clustering.
-		Run the following command to install MLXtend library:-
-		conda install MLXtend
+	Run the following command to install MLXtend library:-
+		####conda install MLXtend
 
 
 For running on Android OS:-
