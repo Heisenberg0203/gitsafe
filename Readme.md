@@ -24,13 +24,21 @@ These instructions will get you a copy of the project up and running on your loc
 
 For testing and debugging process you need to following softwares :-
 Android studio - For client side debugging.
+
 ![hi](a.png)
 
 Access to Firebase Database,Firebase Cloud Messaging Service,Firebase Storage.
+
 ![hi](aa.png)
+
 Anaconda package for data analysis.
+
+
 ![hi](aaa.png)
+
+
 MlXtend library for association rule mining and k-means clustering.
+
 	Run the following command to install MLXtend library:-
 		####conda install MLXtend
 
@@ -61,15 +69,15 @@ As soon as the installation of software is done, it will be a deployed model.
 
 * [Android Studio](https://developer.android.com/docs/)- The Client Side Framework
 
-*[Firebase](https://firebase.google.com/docs/)- The NoSql Database and Cloud Messaging Service.
+* [Firebase](https://firebase.google.com/docs/)- The NoSql Database and Cloud Messaging Service.
 
 * [Python](https://docs.python.org/3/) - Dependency Management
 
 * [Anaconda](https://enterprise-docs.anaconda.com/en/latest/) - Package installer with various required libraries
 
-*[Mlextend](https://rasbt.github.io/mlxtend/#welcome-to-mlxtends-documentation) - Library for association rule mining and k-means clustering
+* [Mlextend](https://rasbt.github.io/mlxtend/#welcome-to-mlxtends-documentation) - Library for association rule mining and k-means clustering
 
-*[spark](https://spark.apache.org/docs/latest/api/python/index.html) - Apache frame to support flow of Big Data
+* [spark](https://spark.apache.org/docs/latest/api/python/index.html) - Apache frame to support flow of Big Data
 
 
 ## Authors
