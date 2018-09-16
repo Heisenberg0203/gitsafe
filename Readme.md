@@ -25,11 +25,6 @@ These instructions will get you a copy of the project up and running on your loc
 For testing and debugging process you need to following softwares :-
 Android studio - For client side debugging.
 
-![]()
-
-
-
-
 
 Access to Firebase Database,Firebase Cloud Messaging Service,Firebase Storage.
 
