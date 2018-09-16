@@ -25,9 +25,7 @@ These instructions will get you a copy of the project up and running on your loc
 For testing and debugging process you need to following softwares :-
 Android studio - For client side debugging.
 
-![](
-      gitsafe/Screen Shot 2018-09-16 at 1.48.05 PM.png
-    )
+![]()
 
 
 
