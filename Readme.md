@@ -42,10 +42,15 @@ For running on Android OS:-
 
 Download the apk file and install it on your mobile or Android OS.
 Go to setting and allow following permissions :-
+
 	A.Storage
+	
 	B.Camera
+	
 	C.Location
+	
 	D.Contacts
+	
 
 
 ## Deployment
@@ -55,18 +60,28 @@ As soon as the installation of software is done, it will be a deployed model.
 ## Built With
 
 * [Android Studio](https://developer.android.com/docs/)- The Client Side Framework
+
 *[Firebase](https://firebase.google.com/docs/)- The NoSql Database and Cloud Messaging Service.
+
 * [Python](https://docs.python.org/3/) - Dependency Management
+
 * [Anaconda](https://enterprise-docs.anaconda.com/en/latest/) - Package installer with various required libraries
+
 *[Mlextend](https://rasbt.github.io/mlxtend/#welcome-to-mlxtends-documentation) - Library for association rule mining and k-means clustering
+
 *[spark](https://spark.apache.org/docs/latest/api/python/index.html) - Apache frame to support flow of Big Data
+
 
 ## Authors
 
 Kapil Chandorikar
+
 Prabhleen Bindra
+
 Purva Chaudhari
+
 Rushikesh Jachak
+
 
 ## License
 
