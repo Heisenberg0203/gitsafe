@@ -35,7 +35,7 @@ Android studio - For client side debugging.
 
 Access to Firebase Database,Firebase Cloud Messaging Service,Firebase Storage.
 
-![](https://github.com/Heisenberg0203/gitsafe/blob/master/Screen%20Shot%202018-09-16%20at%201.44.20%20PM.png)
+![](https://github.com/Heisenberg0203/gitsafe/blob/master/a.png)
 
 
 Anaconda package for data analysis.
